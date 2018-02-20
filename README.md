@@ -1,5 +1,5 @@
 # teste-app
-Teste Para candidatos para a vaga de analista de sistemas
+Teste Para candidatos para a vaga de analista de sistemas2
 
 Neste teste, você deverá produzir uma aplicação nativa iOS ou Android que consuma o serviço de busca de cidades e hotéis do Candeias e exiba os resultados em português numa lista respeitando a ordem do retorno do serviço.
 
